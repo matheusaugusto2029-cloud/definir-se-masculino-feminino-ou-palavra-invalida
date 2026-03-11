@@ -5,7 +5,7 @@ Meu nome é Matheus Augusto.
 💻 Focado em front-end  
 falo espanhol e atualmente estou fazendo ingles
 
- Tecnologias
+
 - HTML bascico
 - CSS basico
 - JavaScript basico
