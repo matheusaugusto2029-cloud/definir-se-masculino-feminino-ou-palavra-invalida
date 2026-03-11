@@ -1,2 +1,12 @@
-# definir-se-masculino-feminino-ou-palavra-invalida
-um projeto simples de python feito na faculdade
+
+Meu nome é Matheus Augusto.
+
+🎓 Estudante de Ciencias da computação - UNIP  
+💻 Focado em front-end  
+falo espanhol e atualmente estou fazendo ingles
+
+ Tecnologias
+- HTML bascico
+- CSS basico
+- JavaScript basico
+- python basico - intermediario
