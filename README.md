@@ -6,7 +6,7 @@ Meu nome é Matheus Augusto.
 falo espanhol e atualmente estou fazendo ingles
 
 
-- HTML bascico
-- CSS basico
-- JavaScript basico
-- python basico - intermediario
+- HTML 
+- CSS 
+- JavaScript 
+- python 
